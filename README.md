@@ -1,24 +1,5 @@
-# README
+# ror-test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este video contiene el proyecto generado en este video ->  https://www.youtube.com/watch?v=0YyGMG06Me8
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+En este video se muestra cómo configurar [rspec](https://github.com/rspec/rspec-rails), [factory_bot](https://github.com/thoughtbot/factory_bot_rails) y [simplecov](https://github.com/simplecov-ruby/simplecov) en un proyecto Ruby on Rails.
